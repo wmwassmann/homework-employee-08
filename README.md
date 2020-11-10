@@ -26,7 +26,7 @@ This application is designed to display an employee's information. Things are a 
 
 # Screenshots
 
-![screenshot](https://wmwassmann.github.io/homework-employee-08/)
+![screenshot](https://wmwassmann.github.io/homework-employee-08/assets/screenshot.png)
 
 # Features
 
