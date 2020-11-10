@@ -108,15 +108,15 @@ function menu000() {
             switch(roster000.team000) {
                 case 'Manager':
                     // if there is no manager, allows to call function create001 to create a manager
-                    await create001();
+                    create001();
                     break
                 case 'Engineer':
                     // Calls add002 function and adds the engineer team member
-                    await add002();
+                    add002();
                     break
                 case 'Intern':
                     // calls 003 function and adds the inter team member
-                    await add003();
+                    add003();
                     break;
                 default:
                     build000();    
