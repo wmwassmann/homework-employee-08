@@ -1,0 +1,19 @@
+.team-heading {
+	background: rgb(41, 41, 41);
+}
+
+.team-heading h1 {
+	font-size: 5rem;
+	color: azure;
+}
+
+.card {
+	margin: 10px;
+	box-shadow: 10px 10px 20px #888888;
+	border: transparent;
+}
+
+.card-header {
+	background: #007bff;
+	color: azure;
+}
